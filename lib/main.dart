@@ -67,10 +67,6 @@ class _MyHomePageState extends State<MyHomePage> {
         CHATS(),
                 STATUS(),
                         CALLS(),
-
-
-        
-
         ]),
     
       ),
